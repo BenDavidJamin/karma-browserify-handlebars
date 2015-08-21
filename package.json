@@ -23,6 +23,7 @@
     "handlebars": "^3.0.3",
     "hbsfy": "^2.2.1",
     "jasmine-core": "^2.3.4",
+    "jasmine-jquery": "^2.1.0",
     "jquery": "^1.11.3",
     "karma": "^0.12.32",
     "karma-browserify": "^4.2.1",
